@@ -1,0 +1,15 @@
+Create a class for Pizza and Derive pizza  class into VegPizza and NonVegPizza. 
+Provide appropriate constructors to initialize members like name, type, cost, description and size.
+Provide getter and setters. provide a getPrice and getdescription methods.
+Again Derive VegPizza into many Diferent classes like  Margarita, PeppyPaneer,  MexicanPaneer, FarmHouse etc. 
+Also Derive NonVegPizza into many Diferent non veg pizzas like PeeperChicken, ChickenBurst,  MexicanChicken etc.
+overide getPrice and getdescription methods.
+
+
+Create a class named topping class with members name, cost and desription.
+Derive the topping class into ExtraCheese, ExtraPaneer, Extra Olive, ExtraAlapino classes.
+Provide methods to getprice and getdescription
+
+Design a decorator class to add one or more toppings to specific Pizzas. Some Costomer may opt for more then one toppings.
+some ordered pizzas may not opt for any toppings.
+final getprice method should include total price of the pizza and all toppings
