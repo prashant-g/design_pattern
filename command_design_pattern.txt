@@ -1,0 +1,3 @@
+build a command interface design pattern to On and off a TV, Light, AC and Music system.
+
+build a separate command for turning on a TV, Light, AC and Music system. also build separate command for turning off a TV , Light, AC and Music system.
